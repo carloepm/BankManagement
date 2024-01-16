@@ -3,10 +3,11 @@ Basically, this individual project involves creating a Banking Management System
 
 Basically, you can have all sorts of functionality that normal banks do have.
 
-Open a new account
-Deposit amount
-Withdraw Amount
-Balance Enquiry
-All Account Holder List
-Close Bank Account
-Modify Bank Account
+1.Open a new account
+2.Deposit amount
+3.Withdraw Amount
+4.Balance Enquiry
+5.All Account Holder List
+6.Close Bank Account
+7.Modify Bank Account
+
