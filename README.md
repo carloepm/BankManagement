@@ -4,4 +4,6 @@ Basically, this individual project involves creating a Banking Management System
 Basically, you can have all sorts of functionality that normal banks do have.
 
 1. Open a new account
+2. Deposit Ammount
+3. 
 
